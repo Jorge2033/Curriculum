@@ -83,7 +83,7 @@ header h1 {
 }
 
 nav {
-    position: sticky;
+    position: fixed;
     z-index: 1;
     width: 100%;
     top: 0;
