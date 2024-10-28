@@ -3,11 +3,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap');
 
 :root {
-    --background-footer-nav: #0B516B;
-    --background-impar: #2590B8;
-    --span: #e16162;
-    
+    --background-footer-nav: #6b9cd1;  /* Regent St Blue */
+    --background-impar: #a3c7e0;       /* Ship Cove */
+    --span: #4a6c82;                   /* Bismark */
+    --text-dark: #3a4a59;              /* Oxford Blue */
+    --text-light: #2a343c;             /* Outer Space */
 }
+
 
 html {
     scroll-behavior: smooth;
@@ -177,28 +179,29 @@ footer div > div {
 .par {
     background-color: var(--background-par);
 }
-
 .impar {
     background-color: var(--background-impar);
 }
 
+/* Actualizando colores de texto */
 .impar h2 {
-    color: #B83754;
+    color: #6b9cd1;  /* Regent St Blue */
 }
+
 .impar h3 {
-    color: #000000;
+    color: #3a4a59;  /* Oxford Blue */
 }
 
 .par h2 {
-    color: #0B516B;
+    color: #a3c7e0;  /* Ship Cove */
 }
 
 .par h4 {
-    color: #16719C;
+    color: #6b9cd1;  /* Regent St Blue */
 }
 
 .par h3 {
-    color: #BD414A;
+    color: #4a6c82;  /* Bismark */
 }
 
 section {
@@ -306,6 +309,7 @@ form {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 #id-email {
@@ -384,7 +388,40 @@ form {
     font-weight: 400;
     font-size: 15px;
 }
+/* Actualizando colores de navegación y footer */
+nav, footer {
+    background-color: var(--background-footer-nav);
+}
 
+/* Actualizando color de los links */
+a {
+    color: #a3c7e0;  /* Ship Cove */
+}
+
+/* Actualizando color de los elementos span */
+span {
+    color: var(--span);
+}
+
+/* Asegurando contraste en el formulario */
+form {
+    background-color: #ffffff;
+    border-color: #6b9cd1;  /* Regent St Blue */
+}
+
+/* Actualizando colores de botones */
+#enviar, #cancelar {
+    background-color: #6b9cd1;  /* Regent St Blue */
+    color: #ffffff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#enviar:hover, #cancelar:hover {
+    background-color: #3a4a59;  /* Oxford Blue - para hover */
+}
 @media only screen and (max-width: 950px) {
     section div h2 {
         margin-bottom: 30px;

@@ -14,7 +14,7 @@ const reasonInput = document.querySelector('#reason');
 const submitButton = document.querySelector('#enviar');
 const cancelButton = document.querySelector('#cancelar');
 
-// Existing menu functionality
+
 let array = [boton, skill, proyect, education, participation, contact];
 for (const elemento of array) {
     elemento.addEventListener('click', () => {
@@ -48,7 +48,7 @@ form.addEventListener('submit', (e) => {
         return;
     }
     
-    // Here you would typically handle the form submission
+
     console.log('Form submitted:', {
         email: emailInput.value,
         reason: reasonInput.value
