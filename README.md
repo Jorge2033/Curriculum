@@ -12,22 +12,22 @@ Este repositorio contiene mi currículum vitae en formato digital, destacando mi
 - [Contacto](#contacto)
 
 ## Descripción
-Soy un [tu profesión] con experiencia en [tecnologías o áreas de especialización clave]. Mi enfoque profesional está en [enfocarse en áreas específicas, por ejemplo: desarrollo web, ingeniería de datos, IA], y me apasiona el desarrollo de soluciones eficientes y escalables.
+Soy un Ingeniero de Software con experiencia. Mi enfoque profesional está en Desarrollo Web, Ciencia de datos, y me apasiona el desarrollo de soluciones eficientes y escalables.
 
 ## Experiencia
 ### [Puesto o título del trabajo] - [Nombre de la empresa]
 - **Duración**: [Mes/Año de inicio] - [Mes/Año de finalización]
 - **Responsabilidades**:
-  - Breve descripción de tus tareas y logros en este puesto.
+  - Breve descripción de  tareas y logros en este puesto.
   - Menciona tecnologías clave utilizadas en este rol.
-  - Cualquier resultado cuantitativo o cualitativo (por ejemplo, “Aumento de eficiencia en un 30%”).
+  - Cualquier resultado cuantitativo o cualitativo .
 
 
 
 ## Educación
 ### [Título del grado o certificación] - [Institución]
 - **Año de finalización**: [Año]
-- Cursos relevantes: [Lista de cursos relevantes para el área de tu especialización, si aplica].
+- Cursos relevantes.
 
 
 
@@ -47,7 +47,7 @@ Soy un [tu profesión] con experiencia en [tecnologías o áreas de especializac
 - [Nombre de la certificación] - [Institución] (Año)
 
 ## Contacto
-Puedes contactarme a través de [correo electrónico] o conectarte conmigo en [LinkedIn u otra red social profesional].
+Puedes contactarme a través de [correo electrónico] .
 
 ---
 
