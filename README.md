@@ -22,14 +22,14 @@ Soy un [tu profesión] con experiencia en [tecnologías o áreas de especializac
   - Menciona tecnologías clave utilizadas en este rol.
   - Cualquier resultado cuantitativo o cualitativo (por ejemplo, “Aumento de eficiencia en un 30%”).
 
-_Repite esta sección para cada experiencia profesional._
+
 
 ## Educación
 ### [Título del grado o certificación] - [Institución]
 - **Año de finalización**: [Año]
 - Cursos relevantes: [Lista de cursos relevantes para el área de tu especialización, si aplica].
 
-_Repite para cada título o certificación._
+
 
 ## Habilidades
 - **Lenguajes de Programación**: [Python, JavaScript, etc.]
